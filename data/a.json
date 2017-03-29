@@ -1,0 +1,57 @@
+
+    {
+        "code" : 1,
+      "foods": [{"foodsName":"孜然土豆片","num":56485,"ids":1,"name":"孜然土豆片"},
+            {"foodsName":"孜然黄瓜片","num":56486,"ids":2,"name":"孜然黄瓜片"},
+            {"foodsName":"孜然西红柿","num":56487,"ids":3,"name":"孜然西红柿"},
+            {"foodsName":"孜然紫薯片","num":56488,"ids":4,"name":"孜然紫薯片"},
+            {"foodsName":"孜然南瓜片","num":56489,"ids":5,"name":"孜然南瓜片"},
+            {"foodsName":"孜然冬瓜片","num":56490,"ids":6,"name":"孜然冬瓜片"}
+        ],
+
+        "home_foods":[
+            {"home_foodsName":"麻婆豆腐","home_num":56485,"ids":7,"name":"麻婆豆腐"},
+            {"home_foodsName":"麻辣豆腐","home_num":56486,"ids":8,"name":"麻辣豆腐"},
+            {"home_foodsName":"清汤豆腐","home_num":56487,"ids":9,"name":"清汤豆腐"},
+            {"home_foodsName":"清炒豆腐","home_num":56488,"ids":10,"name":"清炒豆腐"},
+            {"home_foodsName":"麻辣豆腐片","home_num":56489,"ids":11,"name":"麻辣豆腐片"},
+            {"home_foodsName":"清汤豆腐片","home_num":56490,"ids":12,"name":"清汤豆腐片"}
+
+        ],
+
+      "fat_teas": [{"fat_teasName":"减肥奶茶","fat_teasnum":56485,"ids":13,"name":"减肥奶茶"},
+            {"fat_teasName":"快速减肥茶","fat_teasnum":56486,"ids":14,"name":"快速减肥茶"},
+            {"fat_teasName":"绿茶","fat_teasnum":56487,"ids":15,"name":"绿茶"},
+            {"fat_teasName":"红茶","fat_teasnum":56488,"ids":16,"name":"红茶"},
+            {"fat_teasName":"最好的减肥茶","fat_teasnum":56489,"ids":17,"name":"最好的减肥茶"},
+            {"fat_teasName":"优质的减肥茶","fat_teasnum":56490,"ids":18,"name":"优质的减肥茶"}
+        ],
+
+         "good_boxs":[
+            {"good_boxsName":"优质烤箱","good_boxsnum":56485,"ids":19,"name":"优质烤箱"},
+            {"good_boxsName":"最优烤箱","good_boxsnum":56486,"ids":20,"name":"最优烤箱"},
+            {"good_boxsName":"最好的烤箱","good_boxsnum":56487,"ids":21,"name":"最好的烤箱"},
+            {"good_boxsName":"大型的烤箱","good_boxsnum":56488,"ids":22,"name":"大型的烤箱"},
+            {"good_boxsName":"中型的烤箱","good_boxsnum":56489,"ids":23,"name":"中型的烤箱"},
+            {"good_boxsName":"小型的烤箱","good_boxsnum":56490,"ids":24,"name":"小型的烤箱"}
+        ],
+
+         "morning_foods":[
+            {"morning_foodsName":"麻辣小笼包","morning_foodsnum":56485,"ids":25,"name":"麻辣小笼包"},
+            {"morning_foodsName":"油条老豆腐","morning_foodsnum":56486,"ids":26,"name":"油条老豆腐"},
+            {"morning_foodsName":"葱花饼","morning_foodsnum":56487,"ids":27,"name":"葱花饼"},
+            {"morning_foodsName":"花卷馒头","morning_foodsnum":56488,"ids":28,"name":"花卷馒头"},
+            {"morning_foodsName":"减肥酸奶","morning_foodsnum":56489,"ids":29,"name":"减肥酸奶"},
+            {"morning_foodsName":"油条稀饭","morning_foodsnum":56490,"ids":30,"name":"油条稀饭"}
+        ],
+
+         "eat_foods":[
+            {"eat_foodsName":"羊肉串","eat_foodsnum":56485,"ids":31,"name":"羊肉串"},
+            {"eat_foodsName":"糖葫芦","eat_foodsnum":56486,"ids":32,"name":"糖葫芦"},
+            {"eat_foodsName":"鱼豆腐","eat_foodsnum":56487,"ids":33,"name":"鱼豆腐"},
+            {"eat_foodsName":"烤串","eat_foodsnum":56488,"ids":34,"name":"烤串"},
+            {"eat_foodsName":"烤土豆片","eat_foodsnum":56489,"ids":35,"name":"烤土豆片"},
+            {"eat_foodsName":"烤红薯","eat_foodsnum":56490,"ids":36,"name":"烤红薯"}
+
+        ]
+    }

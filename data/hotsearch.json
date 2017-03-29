@@ -1,0 +1,127 @@
+
+{
+  "code" : 1,
+  "class_search":[
+    {
+      "class_name": "肉",
+      "info_name": [
+        {
+          "name": "牛肉",
+          "src": "./images/dl1.png",
+          "date":"2017-1-5",
+          "values":"牛肉"
+        },
+        {
+          "name": "猪肉",
+          "src": "./images/food15.png",
+          "date":"2017-1-6",
+          "values":"猪肉"
+        },
+        {
+          "name": "羊肉",
+          "src": "./images/dl1.png",
+          "date":"2017-1-7",
+          "values":"羊肉"
+        },
+        {
+          "name": "鱼肉",
+          "src": "./images/food15.png",
+          "date":"2017-1-8",
+          "values":"鱼肉"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "class_name":"甜品",
+      "info_name":
+      [
+        {
+          "name": "蛋糕",
+          "src": "./images/food2.png",
+          "date":"2017-1-5"
+         },
+        {
+          "name": "生日蛋糕",
+          "src": "./images/food3.png",
+          "date":"2017-1-6"
+        },
+        {
+          "name": "小蛋糕",
+          "src": "./images/food2.png",
+          "date":"2017-1-7"
+          },
+        {
+          "name": "大蛋糕",
+          "src": "./images/food3.png",
+          "date":"2017-1-8"
+        }
+      ],
+      "id":2},
+    {"class_name":"凉菜",
+      "info_name":[
+        {
+        "name": "老醋花生米",
+        "src": "./images/food13.png",
+          "date":"2017-1-5"
+        },
+        {
+          "name": "凉皮",
+          "src": "./images/food14.png",
+          "date":"2017-1-6"
+        },
+        {
+          "name": "凉面",
+          "src": "./images/food13.png",
+          "date":"2017-1-7"
+        },
+      {
+        "name": "担担面",
+        "src": "./images/food14.png",
+        "date":"2017-1-8"
+      }],
+      "id":3},
+    {"class_name":"面食","info_name":[
+      {
+        "name": "馒头",
+        "src": "./images/food8.png",
+        "date":"2017-1-5"
+      },
+      {
+        "name": "油条",
+        "src": "./images/food9.png",
+        "date":"2017-1-6"
+      },
+      {
+        "name": "面条",
+        "src": "./images/food8.png",
+        "date":"2017-1-7"
+      },
+      {
+        "name": "花卷",
+        "src": "./images/food9.png",
+        "date":"2017-1-8"
+      }],"id":4},
+    {"class_name":"小吃","info_name":[
+      {
+      "name": "羊肉串",
+      "src": "./images/img1.gif",
+        "date":"2017-1-5"
+    },
+      {
+        "name": "烤面筋",
+        "src": "./images/img1.gif",
+        "date":"2017-1-6"
+      },
+      {
+        "name": "烤鸡翅",
+        "src": "./images/img1.gif",
+        "date":"2017-1-7"
+      },
+      {
+        "name": "烤馒头",
+        "src": "./images/img1.gif",
+        "date":"2017-1-8"
+      }],"id":5}
+  ]
+}
